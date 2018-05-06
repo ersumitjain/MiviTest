@@ -1,0 +1,6 @@
+framework module Pods_MiviTest {
+  umbrella header "Pods-MiviTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
